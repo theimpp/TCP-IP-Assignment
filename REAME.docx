@@ -1,0 +1,13 @@
+TTP 3121 TCP/IP Programming Assignment README document 
+
+Group Name: theimp 
+
+Group Member: Lim Kok Keong 1121118986   
+              Tan Ka Leong 1131121895 
+              This is an assignment task written in C++ programming language to retrieve local IP address of the PC.
+              The task use the popen function to get all the network information and then use the string tokenizer function to get only the IP address displayed. 
+             
+              Work Distribution: 
+              Lim Kok Keong - Do the coding - Code research 
+              Tan Ka Leong - Code research - Code testing - Readme document
+              
